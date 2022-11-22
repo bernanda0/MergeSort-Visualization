@@ -1,0 +1,18 @@
+.arrContainer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 100%;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.arrBar {
+    background-color: violet;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.slider-parent{
+    position:relative;
+}
